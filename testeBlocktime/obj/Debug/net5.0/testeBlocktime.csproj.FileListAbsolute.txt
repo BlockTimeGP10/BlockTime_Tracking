@@ -150,3 +150,10 @@ C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\obj\Debug
 C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\obj\Debug\net5.0\Razor\Views\Lugars\Edit.cshtml.g.cs
 C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\obj\Debug\net5.0\Razor\Views\Lugars\Index.cshtml.g.cs
 C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\obj\Debug\net5.0\testeBlocktime.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\bin\Debug\net5.0\testeBlocktime.xml
+C:\Users\53976212857.INFOSCS\Desktop\Blocktime Tracking\testeBlocktime\obj\Debug\net5.0\testeBlocktime.xml
